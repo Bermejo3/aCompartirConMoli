@@ -1,13 +1,18 @@
 // Reto 1
-print = (str) => {
-    if (str === undefined){
+print = (parametro) => {
+    if (parametro === undefined){
         console.log("Introduce un para")
     }
-    else{console.log(str)}
+    else{console.log(parametro)}
 }
 print()
 print(3)
 print("casa")
+
+//reto2
+function hola(){
+    console.log("hola")
+}
 
 // Reto 4
 transformToASCII = (str) => {
