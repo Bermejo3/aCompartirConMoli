@@ -19,4 +19,4 @@ transformToASCII = (str) => {
     return newStr
 }
 
-console.log(transformToASCII("La pizza con piña es el mejor invento de la humanidad"))
+console.log(transformToASCII("Había una vez un circo"))
