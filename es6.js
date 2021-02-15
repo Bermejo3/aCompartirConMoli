@@ -14,6 +14,10 @@ function hola(){
     console.log("hola")
 }
 
+
+//Cambio random
+
+
 // Reto 4
 transformToASCII = (str) => {
     let newStr = ""
