@@ -43,4 +43,4 @@ transformToASCII = (str) => {
     return newStr
 }
 
-console.log(transformToASCII("Codenotch and Javascript are awesome"))
+console.log(transformToASCII("La pizza con piña es el mejor invento de la humanidad"))
