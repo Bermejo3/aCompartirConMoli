@@ -1,18 +1,14 @@
 // Reto 1
-print = (parametro) => {
-    if (parametro === undefined){
+print = (sdfghjk) => {
+    if (sdfghjk === undefined){
         console.log("Introduce un para")
     }
-    else{console.log(parametro)}
+    else{console.log(sdfghjk)}
 }
 print()
 print(3)
 print("casa")
 
-//reto2
-function hola(){
-    console.log("hola")
-}
 
 
 //Cambio random
