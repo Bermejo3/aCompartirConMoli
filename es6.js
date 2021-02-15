@@ -24,4 +24,4 @@ transformToASCII = (str) => {
     return newStr
 }
 
-console.log(transformToASCII("Había una vez un circo"))
+console.log(transformToASCII("Cambio esta frase"))
