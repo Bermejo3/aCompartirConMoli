@@ -1,7 +1,7 @@
 // Reto 1
 print = (sdfghjk) => {
     if (sdfghjk === undefined){
-        console.log("Introduce un para")
+        console.log("Meter un parametro")
     }
     else{console.log(sdfghjk)}
 }
@@ -21,3 +21,8 @@ transformToASCII = (str) => {
 }
 
 console.log(transformToASCII("Había una vez un circo"))
+
+//Reto 2
+function saludo(){
+    return "hola"
+}
